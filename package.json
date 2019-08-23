@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@nuxtjs/style-resources": "^0.1.2",
+    "lodash.template": "^4.5.0",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.7.1",
     "nuxt-i18n": "^5.8.5",

@@ -1,4 +1,4 @@
 export default {
-  title: 'Marina Aísa - Product Designer and Front-End Developer',
-  description: 'I’m a Product Designer (UI/UX) and Front-End Developer based in Barcelona.'
+  title: 'Andrew Lush - BI Architect and Solutions Architect',
+  description: 'I’m a software developer with over 30 years experience based in Melbourne Australia.'
 }
