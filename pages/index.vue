@@ -1,7 +1,9 @@
 <template>
   <div class="page-index">
     <div class="container">
-      <BlogSection :blogs="blogs"/>
+      <BlogSection sectionTitle="Blogs" :blogs="blogs"/>
+      <hr/>
+      <BlogSection sectionTitle="Portfolio" :blogs="portfolio"/>
     </div>
   </div>
 </template>
